@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringBootRestAPIService2
+    
+server:
+      port: 7776
